@@ -1,0 +1,2 @@
+# team_himajin_vrgame
+チーム暇人ゲーム制作管理リポジトリ
